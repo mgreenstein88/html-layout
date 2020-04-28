@@ -1,0 +1,43 @@
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+}
+.top-gray {
+    background-color: grey;
+    height: 125px;
+    width: 100%;
+}
+.blue-square {
+    background-color: lightskyblue;
+    height: 75px;
+    width: 75px;
+    margin: 20px;
+    display: inline-block
+}
+h1 {
+    text-align: center;
+    margin: 100px auto;
+    padding: 50px;
+}
+
+.mid-blue {
+    background-color:blue;
+    height: 125px;
+    width: 100%;
+}
+.mid-green {
+    background-color: turquoise;
+    height: 125px;
+    width: 100%;
+}
+.bottom-lime {
+    background-color: limegreen;
+    height: 125px;
+    width: 100%;
+}
+.bottom-yellow {
+    background-color: yellow;
+    height: 125px;
+    width: 100%;
+}
